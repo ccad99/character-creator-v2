@@ -1,2 +1,8 @@
 .buttonRow {
+   /*  Curt Code*/
+
+   overflow-y: hidden;
+   overflow-x: visible;
+   white-space: nowrap;
+   height: 80px;
 }
